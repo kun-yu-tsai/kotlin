@@ -1,0 +1,1 @@
+inline class Circle(val diameter: Int)
